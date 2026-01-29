@@ -1,0 +1,10 @@
+*.meta linguist-detectable=false
+*.unity linguist-detectable=false
+*.asset linguist-detectable=false
+*.mat linguist-detectable=false
+*.prefab linguist-detectable=false
+*.controller linguist-detectable=false
+*.overrideStorage linguist-detectable=false
+
+Packages/** linguist-detectable=false
+ProjectSettings/** linguist-detectable=false
