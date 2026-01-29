@@ -1,10 +1,15 @@
-*.meta linguist-detectable=false
-*.unity linguist-detectable=false
-*.asset linguist-detectable=false
-*.mat linguist-detectable=false
-*.prefab linguist-detectable=false
-*.controller linguist-detectable=false
-*.overrideStorage linguist-detectable=false
+# Unity dosyalarını istatistiklerden tamamen kazıyalım
+*.meta linguist-vendored
+*.unity linguist-vendored
+*.asset linguist-vendored
+*.mat linguist-vendored
+*.prefab linguist-vendored
+*.controller linguist-vendored
+*.overrideStorage linguist-vendored
+*.csproj linguist-vendored
+*.sln linguist-vendored
+*.user linguist-vendored
 
-Packages/** linguist-detectable=false
-ProjectSettings/** linguist-detectable=false
+# Tüm ProjectSettings ve Packages klasörünü görmezden gel
+ProjectSettings/** linguist-vendored
+Packages/** linguist-vendored
