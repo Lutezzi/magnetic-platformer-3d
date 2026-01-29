@@ -1,4 +1,3 @@
-# Unity dosyalarını istatistiklerden tamamen kazıyalım
 *.meta linguist-vendored
 *.unity linguist-vendored
 *.asset linguist-vendored
@@ -10,6 +9,5 @@
 *.sln linguist-vendored
 *.user linguist-vendored
 
-# Tüm ProjectSettings ve Packages klasörünü görmezden gel
 ProjectSettings/** linguist-vendored
 Packages/** linguist-vendored
