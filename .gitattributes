@@ -2,6 +2,7 @@
 *.unity linguist-vendored
 *.asset linguist-vendored
 *.mat linguist-vendored
+*.wlt linguist-vendored
 *.prefab linguist-vendored
 *.controller linguist-vendored
 *.overrideStorage linguist-vendored
